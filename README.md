@@ -9,3 +9,15 @@ I'm building a foundation in software engineering and enjoy turning ideas into p
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 - **Learning:** APIs, web frameworks, databases, data analysis, DevOps, and cloud infrastructure
+
+## Current Projects
+
+- **Product Recommendation Engine:** A Python project using lists, sets, intersections, and ranking logic.
+- **CampusConnect:** A campus events application using APIs, SQLite, routes, templates, and testing.
+- **MotivateMe:** A Python MVP focused on motivation and goal tracking.
+
+## Learning Goals
+
+- Grow as a full-stack and backend software engineer.
+- Strengthen my API, database, cloud, and deployment skills.
+- Practice testing, version control, and collaborative software development.
