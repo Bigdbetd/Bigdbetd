@@ -21,3 +21,8 @@ I'm building a foundation in software engineering and enjoy turning ideas into p
 - Grow as a full-stack and backend software engineer.
 - Strengthen my API, database, cloud, and deployment skills.
 - Practice testing, version control, and collaborative software development.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/drew-newman-88623b358/)
+- Explore my repositories here on GitHub.
